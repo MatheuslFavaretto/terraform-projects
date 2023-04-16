@@ -10,8 +10,9 @@ Dominio Terraform
 ### AWS
 #### [AWS-BUKET](/AWS-BUCEKT/)
 
-Utilizando Terraform suba uma instancia, teste e destrua.
+Utilizando Terraform suba uma instancia full iac na AWS.
 
 ### AZURE
-####[AZURE-STORAGE-ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
+#### [AZURE-STORAGE-ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
 
+Utilizando Terraform suba uma instancia full iac na AZURE.
