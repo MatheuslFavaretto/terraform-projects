@@ -13,7 +13,7 @@ Este repositório no GitHub apresenta exemplos práticos e avançados para provi
 Dominio Terraform
 
 ### AWS
-#### [AWS BUCKET](/AWS-BUCKET/)
+#### [AWS BUCKET](/aws-bucket/)
 
 Utilizando Terraform suba uma instancia full iac na AWS.
 
@@ -23,7 +23,11 @@ Subindo instancias remote state para AWS e AZURE.
 
 #### [AWS VPC](/aws-vpc/)
 
-Criar diretorio e armazenar .state.tf e criado uma estrutura VPC completa (Subnet, Internet Gateway, Route Table, Route Table Association e Security Group).
+Criar diretorio e armazenar .tfstate e criado uma estrutura VPC completa (Subnet, Internet Gateway, Route Table, Route Table Association e Security Group).
+
+#### [AWS VM VPC REMOTE STATE](/aws-vm-com-vpc-remote-state/)
+
+Criar uma VM na AWS e usar a VPC a crainda acessando as informações da VPC pelo Remote State.
 
 ### AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
@@ -36,4 +40,8 @@ Subindo instancias remote state para AWS e AZURE.
 
 #### [AZURE VNET](/azure-vnet/)
 
-Criar toda a estrutura VNet (Resource Group, VNet, Subnet, Network Security Group e Subnet Network Security Group Association) na AZURE e deixar o .state.tf salvo 
+Criar toda a estrutura VNet (Resource Group, VNet, Subnet, Network Security Group e Subnet Network Security Group Association) na AZURE e deixar o .tfstate salvo. 
+
+#### [AZURE VM COM VNET REMOTE STATE](/azure-vm-com-vnet-remote-state/)
+
+Criar uma VM com uma estrutura de 5 blocosde recursos (Resource Group, Public IP, Network Interface, Network Interface Security Group Association e Linux Virtual Machine).

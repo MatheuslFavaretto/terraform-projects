@@ -46,3 +46,7 @@ terraform.rc
 *.tfstate
 *.out
 *.info
+aws-key*
+azure-key*
+*aws-key
+*azure-key
