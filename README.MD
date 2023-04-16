@@ -13,7 +13,7 @@ Este repositório no GitHub apresenta exemplos práticos e avançados para provi
 Dominio Terraform
 
 ### AWS
-#### [AWS-BUKET](/AWS-BUCEKT/)
+#### [AWS-BUKET](/AWS-BUCKET/)
 
 Utilizando Terraform suba uma instancia full iac na AWS.
 
