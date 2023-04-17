@@ -40,7 +40,7 @@ Utilizando Terraform suba uma instancia full iac na AZURE.
 
 #### [AWS AZURE REMOTE STATE](/aws-azure-remote-state/)
 
-Subindo instancias remote state para AWS e AZURE, assim salvando, copiando e criando arquivos.
+Subindo instancias remote state para AWS e AZURE.
 
 #### [AZURE VNET](/azure-vnet/)
 
