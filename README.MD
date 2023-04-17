@@ -31,7 +31,7 @@ Criar uma VM na AWS e usar a VPC a crainda acessando as informações da VPC pel
 
 #### [AWS VM COM PROVISIONERS](/aws-vm-com-provisioners/)
 
-Utilizando PROVISIONERS em uma vm na aws.
+Utilizando PROVISIONERS em uma vm na AWS, assim salvando, copiando e criando arquivos.
 
 ### AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
@@ -40,7 +40,7 @@ Utilizando Terraform suba uma instancia full iac na AZURE.
 
 #### [AWS AZURE REMOTE STATE](/aws-azure-remote-state/)
 
-Subindo instancias remote state para AWS e AZURE.
+Subindo instancias remote state para AWS e AZURE, assim salvando, copiando e criando arquivos.
 
 #### [AZURE VNET](/azure-vnet/)
 
@@ -49,3 +49,7 @@ Criar toda a estrutura VNet (Resource Group, VNet, Subnet, Network Security Grou
 #### [AZURE VM COM VNET REMOTE STATE](/azure-vm-com-vnet-remote-state/)
 
 Criar uma VM com uma estrutura de 5 blocosde recursos (Resource Group, Public IP, Network Interface, Network Interface Security Group Association e Linux Virtual Machine).
+
+#### [AZURE VM COM PROVISIONERS](/azure-vm-com-provisioners/)
+
+Utilizando PROVISIONERS em uma vm na AZURE, assim salvando, copiando e criando arquivos.
