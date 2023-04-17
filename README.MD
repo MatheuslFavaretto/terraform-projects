@@ -29,6 +29,10 @@ Criar diretorio e armazenar .tfstate e criado uma estrutura VPC completa (Subnet
 
 Criar uma VM na AWS e usar a VPC a crainda acessando as informações da VPC pelo Remote State.
 
+#### [AWS VM COM PROVISIONERS](/aws-vm-com-provisioners/)
+
+Utilizando PROVISIONERS em uma vm na aws.
+
 ### AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
 
