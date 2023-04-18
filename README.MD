@@ -33,6 +33,10 @@ Criar uma VM na AWS e usar a VPC a crainda acessando as informações da VPC pel
 
 Utilizando PROVISIONERS em uma vm na AWS, assim salvando, copiando e criando arquivos.
 
+#### [MODULO LOCAL AWS](/modulo-local/)
+
+Exemplo de utilização de modulos locais na AWS.
+
 ### AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
 
