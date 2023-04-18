@@ -57,3 +57,7 @@ Criar uma VM com uma estrutura de 5 blocosde recursos (Resource Group, Public IP
 #### [AZURE VM COM PROVISIONERS](/azure-vm-com-provisioners/)
 
 Utilizando PROVISIONERS em uma vm na AZURE, assim salvando, copiando e criando arquivos.
+
+#### [AZURE MODULO REMOTO](/modulo-remoto/)
+
+Exemplo de utilização de modulos remotos com AZURE.
