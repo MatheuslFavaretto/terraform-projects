@@ -61,3 +61,8 @@ Utilizando PROVISIONERS em uma vm na AZURE, assim salvando, copiando e criando a
 #### [AZURE MODULO REMOTO](/modulo-remoto/)
 
 Exemplo de utilização de modulos remotos com AZURE.
+
+#### [AZURE MODULO REMOTO DEPENDS-ON](/depends-on-modulo-remoto/)
+
+Exemplo de utilização do depends-on em modulos remotos na AZURE.
+
