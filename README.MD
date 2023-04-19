@@ -12,7 +12,7 @@ Este repositório no GitHub apresenta exemplos práticos e avançados para provi
 ## Motivação
 Dominio Terraform
 
-### AWS
+## AWS
 #### [AWS BUCKET](/aws-bucket/)
 
 Utilizando Terraform suba uma instancia full iac na AWS.
@@ -41,7 +41,7 @@ Exemplo de utilização de modulos locais na AWS.
 
 Exemplo de utilização do Meta Argument COUNT em modulos remotos na AWS.
 
-### AZURE
+## AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
 
 Utilizando Terraform suba uma instancia full iac na AZURE.
