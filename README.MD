@@ -33,9 +33,13 @@ Criar uma VM na AWS e usar a VPC a crainda acessando as informações da VPC pel
 
 Utilizando PROVISIONERS em uma vm na AWS, assim salvando, copiando e criando arquivos.
 
-#### [MODULO LOCAL AWS](/modulo-local/)
+#### [AWS MODULO LOCAL](/modulo-local/)
 
 Exemplo de utilização de modulos locais na AWS.
+
+#### [AWS COUNT VPC](/count-aws-vpc/)
+
+Exemplo de utilização do Meta Argument COUNT em modulos remotos na AWS.
 
 ### AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
@@ -64,5 +68,5 @@ Exemplo de utilização de modulos remotos com AZURE.
 
 #### [AZURE MODULO REMOTO DEPENDS-ON](/depends-on-modulo-remoto/)
 
-Exemplo de utilização do depends-on em modulos remotos na AZURE.
+Exemplo de utilização do Meta Argument DEPENDS-ON em modulos remotos na AZURE.
 
