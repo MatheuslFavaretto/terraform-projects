@@ -103,3 +103,9 @@ Exemplo de utilização de modulos remotos com AZURE.
 
 Exemplo de utilização do Meta Argument DEPENDS-ON em modulos remotos na AZURE.
 
+#### [AZURE RESOURCE GROUP NULL RESOURCE](/azure-resource-group-null-resource/)
+
+Exemplo de utilização do recurso NULL RESOURCE na AZURE.
+
+
+
