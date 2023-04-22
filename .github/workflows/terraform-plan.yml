@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Change directory
-      run: cd /pipeline-github-actions/
+      run: ls
     
     - name: Terraform Init
       run: terraform init
