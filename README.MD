@@ -69,6 +69,10 @@ Exemplo de utilização do provider em uma vpc na  AWS.
 
 Exemplo de utilização de recursos dentro de um workspace para deploy na AWS.
 
+#### [AWS VPC DATA SOURCE](/aws-vpc-data-source/)
+
+Exemplo de utilização da função DATA SOURCE para utilizar uma vpc existente na AWS.
+
 
 ## AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
