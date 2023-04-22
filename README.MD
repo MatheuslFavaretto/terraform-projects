@@ -12,6 +12,11 @@ Este repositório no GitHub apresenta exemplos práticos e avançados para provi
 ## Motivação
 Dominio Terraform
 
+## PIPELINE
+#### [PIPELINE GITHUB ACTIONS](/pipeline-github-actions/)
+
+Pipeline Usando GITHUB ACTIONS.
+
 ## AWS
 #### [AWS BUCKET](/aws-bucket/)
 
@@ -110,6 +115,8 @@ Exemplo de utilização do recurso NULL RESOURCE na AZURE.
 #### [AZURE RESOURCE GROUP TIME SLEEP](/azure-resource-group-time-sleep/)
 
 Exemplo de utilização do TIME SLEEP ba AZURE.
+
+
 
 
 
