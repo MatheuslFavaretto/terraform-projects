@@ -37,9 +37,34 @@ Utilizando PROVISIONERS em uma vm na AWS, assim salvando, copiando e criando arq
 
 Exemplo de utilização de modulos locais na AWS.
 
-#### [AWS COUNT VPC](/count-aws-vpc/)
+#### [AWS COUNT VPC](/aws-vpc-count/)
 
 Exemplo de utilização do Meta Argument COUNT em modulos remotos na AWS.
+
+#### [AWS VPC CONDITIONAL EXPRESSIONS](/aws-vpc-conditional-expressions/)
+
+Exemplo de utilização de uma conditional expression na AWS.
+
+##### [AWS VPC FOR EXPRESSIONS](/aws-vpc-for-expressions/)
+
+Exemplo de utilização do for expression na AWS.
+
+#### [AWS VPC SPLAT EXPRESSIONS](/aws-vpc-splat-expressions/)
+
+Exemplo de utilização do splat expression expression na AWS.
+
+#### [AWS VPC DYNAMIC BLOCKS](/aws-vpc-dynamic-blocks/)
+
+Exemplo de utilização do dynamic block na AWS.
+
+#### [AWS LIFECYCLE BUCKET](/aws-lifecycle-bucket/)
+
+Exemplo de utilização da LIFECYCLE em uma BUCKET na AWS.
+
+#### [AWS PROVIDER VPC](/aws-provider-vpc/)
+
+Exemplo de utilização do provider em uma vpc na  AWS.
+
 
 ## AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
