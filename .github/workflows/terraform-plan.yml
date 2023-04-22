@@ -22,17 +22,17 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Terraform Init
-      working-directory: terraform-project/pipeline-github-actions/
+      working-directory: /home/runner/work/terraform-project/pipeline-github-actions/
       run: terraform init
 
     - name: Terraform Fmt
-      working-directory: terraform-project/pipeline-github-actions/
+      working-directory: /home/runner/work/terraform-project/pipeline-github-actions/
       run: terraform fmt -check
 
     - name: Terraform Validate
-      working-directory: terraform-project/pipeline-github-actions/
+      working-directory: /home/runner/work/terraform-project/pipeline-github-actions/
       run: terraform validate
 
     - name: Terraform Plan
-      working-directory: terraform-project/pipeline-github-actions/
+      working-directory: /home/runner/work/terraform-project/pipeline-github-actions/
       run: terraform plan
