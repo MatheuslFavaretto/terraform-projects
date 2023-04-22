@@ -107,5 +107,9 @@ Exemplo de utilização do Meta Argument DEPENDS-ON em modulos remotos na AZURE.
 
 Exemplo de utilização do recurso NULL RESOURCE na AZURE.
 
+#### [AZURE RESOURCE GROUP TIME SLEEP](/azure-resource-group-time-sleep/)
+
+Exemplo de utilização do TIME SLEEP ba AZURE.
+
 
 
