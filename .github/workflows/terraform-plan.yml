@@ -25,7 +25,7 @@ jobs:
       working-directory: terraform-project/pipeline-github-actions/
       run: terraform init
 
-- name: Terraform Fmt
+    - name: Terraform Fmt
       working-directory: terraform-project/pipeline-github-actions/
       run: terraform fmt -check
 
