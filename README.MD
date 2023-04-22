@@ -65,6 +65,10 @@ Exemplo de utilização da LIFECYCLE em uma BUCKET na AWS.
 
 Exemplo de utilização do provider em uma vpc na  AWS.
 
+#### [AWS VPC WORKSPACES](/aws-vpc-workspaces/)
+
+Exemplo de utilização de recursos dentro de um workspace para deploy na AWS.
+
 
 ## AZURE
 #### [AZURE STORAGE ACCOUNT](/AZURE-STORAGE-ACCOUNT/)
