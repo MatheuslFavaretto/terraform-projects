@@ -11,7 +11,7 @@ terraform {
 
   backend "s3" {
     bucket = "matheusf-remote-state"
-    key    = "aws-vpc/terrform.tfstate"
+    key    = "aws-vpc-for-expressions/terrform.tfstate"
     region = "sa-east-1"
   }
 }
